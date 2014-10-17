@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hax:home|Door43 (hax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hax|d43-hax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hax/archive/master.zip|d43-hax.zip]]
+
+**Recent Changes**
+{{changes>ns = hax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hax|Ethnologue data]]
+
